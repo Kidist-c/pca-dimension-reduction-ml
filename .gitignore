@@ -31,9 +31,6 @@ data/
 .DS_Store
 Thumbs.db
 
-# Colab files
-*.ipynb
-
 # Temporary files
 *.tmp
 *.swp
